@@ -1,0 +1,6 @@
+[
+	{
+	    "caption": "Convert to JSON bundle",
+	    "command": "convert_to_json_bundle"
+	}
+]
